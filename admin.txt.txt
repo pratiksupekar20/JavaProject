@@ -1,0 +1,11 @@
+class A{
+void m1(){
+System.out.println("hi what are you doing");
+}
+}
+public class Demo{
+public static void main(String[]	 args){
+A a=new A();
+a.m1();
+}
+}
